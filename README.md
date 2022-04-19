@@ -1,4 +1,4 @@
 # Spline-Interpolation
-spline interpolation in Kotlin
+Spline Interpolation algorithm in Kotlin
 
-Interpolating a set of piecewise functions onto a collection of points. 
+Interpolating a set of polynomial piecewise functions onto a collection of points. 
